@@ -4,7 +4,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 import os
-path = "/content/drive/My Drive/425 Project" # Your path here
+path = # Your path here
 os.chdir(path)
 
 #importing file with clean ICD data
